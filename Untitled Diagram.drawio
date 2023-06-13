@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T06:42:57.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="aJNHNVbgspqrq9hC6T2E" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-13T06:45:03.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="12zeg1Zm50I43qWIUwdG" version="21.3.8" type="github" pages="3">
   <diagram name="Server room" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="1434" dy="2418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1973,9 +1973,19 @@
         <mxCell id="wGku3UYk9pvQ4EW9wZlv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="BgtNUBztRkRi91f_22LB-31" target="BgtNUBztRkRi91f_22LB-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="-15" />
-              <mxPoint x="580" y="-145" />
+              <mxPoint x="560" y="-15" />
+              <mxPoint x="560" y="-145" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGku3UYk9pvQ4EW9wZlv-12" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGku3UYk9pvQ4EW9wZlv-10">
+          <mxGeometry x="-0.8227" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGku3UYk9pvQ4EW9wZlv-13" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGku3UYk9pvQ4EW9wZlv-10">
+          <mxGeometry x="0.8893" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgtNUBztRkRi91f_22LB-31" value="VNQNSDJ0003-03&lt;br&gt;EX3400-48P" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -1989,6 +1999,25 @@
             <Array as="points">
               <mxPoint x="671" y="-85" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGku3UYk9pvQ4EW9wZlv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgtNUBztRkRi91f_22LB-32" target="BgtNUBztRkRi91f_22LB-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="-25" />
+              <mxPoint x="780" y="-200" />
+              <mxPoint x="220" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGku3UYk9pvQ4EW9wZlv-15" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGku3UYk9pvQ4EW9wZlv-14">
+          <mxGeometry x="-0.9649" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGku3UYk9pvQ4EW9wZlv-16" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wGku3UYk9pvQ4EW9wZlv-14">
+          <mxGeometry x="0.8716" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgtNUBztRkRi91f_22LB-33" value="VNQNSDJ0003-04&lt;br&gt;EX3400-48P" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
