@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T09:07:35.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="Ip1isoDdJ6U5JtCSTdEJ" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-28T09:21:55.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="GTE7VxjG4DLAk1pd0jHX" version="21.6.2" type="github" pages="3">
   <diagram name="Server room" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="1426" dy="3097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1812,14 +1812,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_cpPcdpMkGdRSOdWBVCT" name="Summary">
-    <mxGraphModel dx="1426" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wGku3UYk9pvQ4EW9wZlv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="BgtNUBztRkRi91f_22LB-5" target="BgtNUBztRkRi91f_22LB-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="59" y="-1143" />
+              <mxPoint x="377" y="-1190" />
+              <mxPoint x="59" y="-1190" />
               <mxPoint x="59" y="-1520" />
               <mxPoint x="302" y="-1520" />
             </Array>
@@ -1870,14 +1871,30 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgtNUBztRkRi91f_22LB-5" target="6k9X4mHzHr2CW20e6aho-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256.5" y="-1111" as="sourcePoint" />
+            <mxPoint x="440" y="-490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-68" y="-1143" />
+              <mxPoint x="-68" y="-410" />
+              <mxPoint x="590" y="-410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-5" value="13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6k9X4mHzHr2CW20e6aho-4">
+          <mxGeometry x="-0.7911" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BgtNUBztRkRi91f_22LB-5" value="VNQNSDJ0001-00&lt;br&gt;EX4650-48Y-AFO" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="-1175" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="aaM7oXJt4B2hfFHoVgju-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BgtNUBztRkRi91f_22LB-11" target="BgtNUBztRkRi91f_22LB-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1109" y="-1128" />
-              <mxPoint x="1109" y="-595" />
+              <mxPoint x="1070" y="-1128" />
+              <mxPoint x="1070" y="-595" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1888,7 +1905,20 @@
         </mxCell>
         <mxCell id="aaM7oXJt4B2hfFHoVgju-34" value="12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aaM7oXJt4B2hfFHoVgju-30" vertex="1" connectable="0">
           <mxGeometry x="-0.7047" y="-2" relative="1" as="geometry">
-            <mxPoint x="21" y="46" as="offset" />
+            <mxPoint x="2" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgtNUBztRkRi91f_22LB-11" target="6k9X4mHzHr2CW20e6aho-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="-1128" />
+              <mxPoint x="1140" y="-415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-8" value="13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6k9X4mHzHr2CW20e6aho-7">
+          <mxGeometry x="-0.6456" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgtNUBztRkRi91f_22LB-11" value="VNQNSDJ0001-01&lt;br&gt;EX4650-48Y-AFO" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
@@ -2011,8 +2041,8 @@
             <mxPoint x="879" y="-1120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="295" y="-710" />
-              <mxPoint x="1069" y="-710" />
-              <mxPoint x="1069" y="-1115" />
+              <mxPoint x="1030" y="-710" />
+              <mxPoint x="1030" y="-1115" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2172,6 +2202,15 @@
         </mxCell>
         <mxCell id="-zVQ_BsAOkO7v23oNI1I-11" value="VNQNSDJ0005-00&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;EX2300-24P" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-zVQ_BsAOkO7v23oNI1I-17" vertex="1">
           <mxGeometry x="50.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="-480" width="115.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-2" value="VNQNSDJ1002&lt;br&gt;EX2300-12P" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;points=[[0,0.5,0,0,0],[0,0.98,0,0,0],[0.16,0.23,0,0,0],[0.5,0,0,0,0],[0.5,0.98,0,0,0],[0.87,0.74,0,0,0],[0.98,0.5,0,0,0],[1,0,0,0,0]];" vertex="1" parent="6k9X4mHzHr2CW20e6aho-1">
+          <mxGeometry y="40" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6k9X4mHzHr2CW20e6aho-3" value="Water treatment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="6k9X4mHzHr2CW20e6aho-1">
+          <mxGeometry x="-14.5" y="10" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
