@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T10:02:24.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="9D810dz0ZIJYR7qUG44E" version="24.4.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-24T10:02:58.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="xOXUFoz4QWs8LAV4fcNj" version="24.4.7" type="github" pages="5">
   <diagram name="All rack" id="HlwUjjjAXZbF0zlxBwSo">
     <mxGraphModel dx="2449" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1843,6 +1843,9 @@
         </mxCell>
         <mxCell id="6k9X4mHzHr2CW20e6aho-3" value="Water treatment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" parent="6k9X4mHzHr2CW20e6aho-1" vertex="1">
           <mxGeometry x="-14.5" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KUGx7Mlx_5MJ8jeR7eW-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SW summary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-450" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
