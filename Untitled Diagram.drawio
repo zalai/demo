@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T09:30:05.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="wiz8TsD-cDUKZWLv2t8H" version="24.4.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:36:30.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="K-MRPOFy6_JpSoFQx3jX" version="24.4.7" type="github" pages="5">
   <diagram name="All rack" id="HlwUjjjAXZbF0zlxBwSo">
     <mxGraphModel dx="2835" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1260,6 +1260,23 @@
         </mxCell>
         <mxCell id="oS3BnUgv4VPij70MJQBP-1" value="Server Switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WZGLK7Ha6yzrzpEjrovh-3" vertex="1">
           <mxGeometry y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEyqLEa1JEZMuz9NfmK-2" value="VNQNSRC0005" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1935" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEyqLEa1JEZMuz9NfmK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZNEyqLEa1JEZMuz9NfmK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="-1845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEyqLEa1JEZMuz9NfmK-3" value="VNQNSRC0004" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="-1970" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEyqLEa1JEZMuz9NfmK-4" value="VNQNSRC0006" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1781" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEyqLEa1JEZMuz9NfmK-5" value="VNQNSRC0003&lt;div&gt;SIMENT&amp;nbsp;S615&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="-2087.5" width="70" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
