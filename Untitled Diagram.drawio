@@ -3171,6 +3171,9 @@
         <mxCell id="NOEvTPptNmrcksb_fmgX-1" value="Domain Controller" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E5VA0hMZH7CAIqKTRMDy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NOEvTPptNmrcksb_fmgX-2" target="E5VA0hMZH7CAIqKTRMDy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NOEvTPptNmrcksb_fmgX-2" value="Backup server" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="80" height="60" as="geometry" />
         </mxCell>
@@ -3265,6 +3268,9 @@
         </mxCell>
         <mxCell id="YMnvYmF1JEjg_aObFAqH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="eeIe3MtmvBjQqYyQPt2s-26" target="YMnvYmF1JEjg_aObFAqH-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5VA0hMZH7CAIqKTRMDy-1" value="TAPE Storage" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="105" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
