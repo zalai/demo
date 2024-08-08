@@ -3240,7 +3240,7 @@
         <mxCell id="eeIe3MtmvBjQqYyQPt2s-26" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="eeIe3MtmvBjQqYyQPt2s-29">
           <mxGeometry width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="eeIe3MtmvBjQqYyQPt2s-28" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="eeIe3MtmvBjQqYyQPt2s-29">
+        <mxCell id="eeIe3MtmvBjQqYyQPt2s-28" value="KVN Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="eeIe3MtmvBjQqYyQPt2s-29">
           <mxGeometry x="85" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eeIe3MtmvBjQqYyQPt2s-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eeIe3MtmvBjQqYyQPt2s-16" target="YMnvYmF1JEjg_aObFAqH-1">
