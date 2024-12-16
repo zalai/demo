@@ -2160,7 +2160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u19XM_EuM-YDQnzzQKzq" name="Server_SAN">
-    <mxGraphModel dx="1426" dy="4264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="4264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2211,7 +2211,7 @@
           <mxGeometry x="1000" y="-1470" width="490.53" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bi1cGt1Nogptce4cHZNe-6" value="NAS DS1520+ -&amp;nbsp;vnqnnas0001" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="-2338.000000000001" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="1529" y="-2338.000000000001" width="77.4" height="67.2" as="geometry" />
         </mxCell>
         <mxCell id="IjdjeN8XTbAEUZEZjAty-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.048;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;endArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tZnv5iP2YcXjLvyv_oZy-1" target="sC4D3wHL5iKoqOJiDFsG-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2398,7 +2398,7 @@
             <mxPoint x="1100" y="-1560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTHN2_n8Jj2FNwQuseKf-8" value="ge-1/0/35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MTHN2_n8Jj2FNwQuseKf-6" vertex="1" connectable="0">
+        <mxCell id="MTHN2_n8Jj2FNwQuseKf-8" value="ge-0/0/35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MTHN2_n8Jj2FNwQuseKf-6" vertex="1" connectable="0">
           <mxGeometry x="-0.6352" y="1" relative="1" as="geometry">
             <mxPoint x="43" as="offset" />
           </mxGeometry>
