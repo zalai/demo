@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3" pages="10">
   <diagram name="ODF Rack" id="HlwUjjjAXZbF0zlxBwSo">
     <mxGraphModel dx="2835" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1005,6 +1005,68 @@
         <mxCell id="2KUGx7Mlx_5MJ8jeR7eW-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SW summary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-150" y="-1644.14" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-ZMNpkEiTkAvuVrNDTQH-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-120" y="-1330" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZMNpkEiTkAvuVrNDTQH-2" value="VNQNSDJ0002-01&lt;br&gt;EX3400-48P" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="-ZMNpkEiTkAvuVrNDTQH-1">
+          <mxGeometry width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZMNpkEiTkAvuVrNDTQH-3" value="Office B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-ZMNpkEiTkAvuVrNDTQH-1">
+          <mxGeometry y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZMNpkEiTkAvuVrNDTQH-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-660" y="-1290" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZMNpkEiTkAvuVrNDTQH-5" value="VNQNSDJ0002-00&lt;br&gt;EX3400-48P" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="-ZMNpkEiTkAvuVrNDTQH-4">
+          <mxGeometry width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZMNpkEiTkAvuVrNDTQH-6" value="Office A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-ZMNpkEiTkAvuVrNDTQH-4">
+          <mxGeometry x="5" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLQxlH8JLZpRHZpB4Hrz-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-ZMNpkEiTkAvuVrNDTQH-5" target="BgtNUBztRkRi91f_22LB-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-660" y="-1300" />
+              <mxPoint x="-800" y="-1300" />
+            </Array>
+            <mxPoint x="-455" y="-1035" as="sourcePoint" />
+            <mxPoint x="-730" y="-1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLQxlH8JLZpRHZpB4Hrz-2" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cLQxlH8JLZpRHZpB4Hrz-1">
+          <mxGeometry x="0.3631" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-63" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLQxlH8JLZpRHZpB4Hrz-3" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cLQxlH8JLZpRHZpB4Hrz-1">
+          <mxGeometry x="-0.5674" y="-3" relative="1" as="geometry">
+            <mxPoint x="-112" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLQxlH8JLZpRHZpB4Hrz-4" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cLQxlH8JLZpRHZpB4Hrz-1">
+          <mxGeometry x="-0.8099" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzJPjY9QrpbmtU0ssSMg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-ZMNpkEiTkAvuVrNDTQH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="-1260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-230" y="-1350" />
+              <mxPoint x="-69" y="-1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzJPjY9QrpbmtU0ssSMg-3" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zzJPjY9QrpbmtU0ssSMg-2">
+          <mxGeometry x="-0.7856" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzJPjY9QrpbmtU0ssSMg-4" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zzJPjY9QrpbmtU0ssSMg-2">
+          <mxGeometry x="0.6192" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1027,7 +1089,7 @@
         <mxCell id="1c7a67bf8fd3230f-48" value="Microtik1009 7G-1C" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="446.5" y="-2080" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="Soti7NoAHVdSvZAn8poI-4" value="VNQNFWB1001-HA - Factory" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+        <mxCell id="Soti7NoAHVdSvZAn8poI-4" value="VNQNFWB1001-HA - Factory&lt;div&gt;Juniper F380B&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1077.5" y="-1510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Soti7NoAHVdSvZAn8poI-6" value="VNQNSDJ1002-00&lt;br&gt;EX3400-48P" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
@@ -1062,13 +1124,13 @@
         <mxCell id="Soti7NoAHVdSvZAn8poI-12" value="LEFT VNTT ODF 4 port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="423" y="-2180" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p6TwtTD9wWZrSr737Lla-1" value="VNQNFWB0001 - Office" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+        <mxCell id="p6TwtTD9wWZrSr737Lla-1" value="VNQNFWB0001 - Office&lt;br&gt;Juniper F380B" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="337" y="-1390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p6TwtTD9wWZrSr737Lla-2" value="VNQNFWB0001-HA-Office" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+        <mxCell id="p6TwtTD9wWZrSr737Lla-2" value="VNQNFWB0001-HA-Office&lt;div&gt;Juniper F380B&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1077.5" y="-1370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p6TwtTD9wWZrSr737Lla-3" value="VNQNFWB1001 - Factory" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+        <mxCell id="p6TwtTD9wWZrSr737Lla-3" value="VNQNFWB1001 - Factory&lt;div&gt;Juniper F380B&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="343" y="-1530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p6TwtTD9wWZrSr737Lla-4" value="VNQNSDJ0001-01&lt;br&gt;EX4650-48Y-AFO" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
