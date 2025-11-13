@@ -2147,7 +2147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t5s1vV0z1UTlKWls5dP1-2" value="- Port 3, 4 NAT, DHCP &amp;gt; Testing&lt;br&gt;- Port 5: No NAT, IP .49 (gateway)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="649" y="-2040" width="111" height="88" as="geometry" />
+          <mxGeometry x="548" y="-2104" width="111" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
